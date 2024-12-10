@@ -174,7 +174,6 @@ class Portfolio extends React.Component {
       </div>
     );
   }
-  // don't be lazy
 }
 
 
